@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Pranav!
 
-<!--
-**pranavhariharan145/pranavhariharan145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently studying in **[SRM Institute of Science and Technology]**.
+- 🌱 I’m learning **[Machine Learning]**.
+- 💬 Ask me about **[Web Dev]**.
+- 📫 How to reach me: **[pranavhariharan145@gmail.com]**.
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/pranav-hariharan-79053028a/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-handle](https://www.instagram.com/pranav2004.exe/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
